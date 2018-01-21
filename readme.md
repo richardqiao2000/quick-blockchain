@@ -50,3 +50,5 @@ curl -X GET -H "Content-Type: application/json" "http://localhost:5000/chain"
 curl -X GET -H "Content-Type: application/json" "http://localhost:5001/chain"
 
 ```
+### Credit to
+https://hackernoon.com/@vanflymen
