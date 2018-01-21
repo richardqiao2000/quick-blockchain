@@ -1,4 +1,8 @@
 ## A quick block chain and coin mining implementation
+### install python3.6 and Flask
+```bash
+pip install Flask==0.12.2 requests==2.18.4
+```
 ### run it at local
 ```bash
 # 1. start 2 block chain nodes
